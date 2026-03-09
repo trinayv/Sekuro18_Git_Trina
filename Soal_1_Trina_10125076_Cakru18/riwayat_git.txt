@@ -1,0 +1,6 @@
+*   65fbb89 merge v1 dan v2
+|\  
+| * 9e1e46a versi 1
+* | 68bc632 versi 2
+|/  
+* 0ec4d47 inisiasi github
