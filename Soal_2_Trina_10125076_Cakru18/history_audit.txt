@@ -1,0 +1,16 @@
+  994  git checkout v2
+  995  git commit --amend -m "tambah folder soal 1"
+  996  git push --force origin v2
+  997  git checkout main
+  998  git merge v2
+  999  git push origin main
+ 1000  brew update
+ 1001  brew update\nbrew install gcc
+ 1002  which g++ > compiler_trace.log && g++ --version | head -n 1 >> compiler_trace.log
+ 1003  mkdir ~/recovery_ops
+ 1004  cd ~/recovery_ops
+ 1005  curl -O https://https://raw.githubusercontent.com/aryadiiptaa/YESS/refs/heads/main/system_raw.txt
+ 1006  curl -O https://raw.githubusercontent.com/aryadiiptaa/YESS/refs/heads/main/system_raw.txt
+ 1007  head -n 1260 system_raw.txt | tail -n 11 > recovered_sector.txt
+ 1008  rm system_raw.txt
+ 1009  code .
